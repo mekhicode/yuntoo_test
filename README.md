@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 helloqwewqe
+=======
+heqweqweqweqweqwello
+>>>>>>> dev
